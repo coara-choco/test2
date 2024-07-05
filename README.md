@@ -18,6 +18,8 @@ orange_state
 2de9f04fadf5117d
 
 f0b5adf5617d
+
 fastboot
+
 
 neoのlkの情報一部
