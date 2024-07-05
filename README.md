@@ -1,4 +1,4 @@
-0x039174(redstate
+0x039174(redstate)
 
 f0b5002489b0
 
