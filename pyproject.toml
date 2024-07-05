@@ -21,4 +21,4 @@ dynamic = ["dependencies"]
 dependencies = {file = ["requirements.txt"]}
 
 [project.urls]
-homepage = "https://github.com/R0rt1z2/lkpatcher"
+homepage = "https://github.com/coara-choco/test2"
