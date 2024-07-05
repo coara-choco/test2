@@ -35,8 +35,8 @@ class PatchManager:
         # that checks for the unlock bit in oplusreserve
         # to always return 0 (unlocked).
         "fastboot": {
-            "2de9f04fadf5ac5d": "00207047",
-            "f0b5adf5925d": "00207047",
+            "": "",
+            "": "",
         },
 
         # Disable the annoying warning message that shows
@@ -44,7 +44,7 @@ class PatchManager:
         # This is done by forcing the function that checks
         # for the current vbmeta state to always return 0.
         "dm_verity": {
-            "30b583b002ab0022": "00207047",
+            "30b583b002ab0c46": "00207047",
         },
 
         # Disable the annoying warning message that shows
@@ -52,7 +52,7 @@ class PatchManager:
         # This is done by forcing the function that checks
         # for the current LCS state to always return 0.
         "orange_state": {
-            "08b50a4b7b441b681b68022b": "00207047",
+            "08b50a4b7b441b6813b1aff3": "00207047",
         },
 
         # This shouldn't be necessary, but regardless, it
