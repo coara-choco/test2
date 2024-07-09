@@ -1,33 +1,34 @@
-0x039174(redstate)
+0x039174(redstate意味ない)
 
 f0b5002489b0
+00207047
 
-
-0x000668(dm_verify)
+0x000668(dm_verify意味ない)
 
 30b583b002ab0c46
+00207047
 
-
-0x024300(orange_state)
+0x024300(orange_state意味ない)
 
 08b50a4b7b441b6813b1aff3
-
+00207047
 
 0x00E834(fastboot意味ない)
 
 2de9f04fadf5117d
 
 f0b5adf5617d
+00207047
 
 0x000008F8 (boot時のアニメーション)
 
 30B583B0104D1148
-
+00207047
 
 0x003E190 (何らかのboot関連)
 
 30B583B0D0E90045
-
+01207047
 
 
 neoのlkの情報一部
